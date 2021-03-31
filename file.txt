@@ -1,1 +1,2 @@
 My first repo for a school assignment. 
+I am following the instructions for this cocalc assignment. 
